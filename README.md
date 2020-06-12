@@ -12,11 +12,9 @@
 
 4.  **Team Members:**   Harish. V - @HarishVS12
   
-5. **Demo Link:**  [MyTutor-Code_Stoic- Demo App Link]( https://drive.google.com/open?id=1CvkLyIwM_ibl9M7ocQWngD9wuPWhDuMM)
+5. **Demo Link:**  [MyTutor- Demo App Link]( https://drive.google.com/open?id=1CvkLyIwM_ibl9M7ocQWngD9wuPWhDuMM)
 
-6. **Repository Link(s):**  [MyTutor-Code_Stoic- Repository Link](https://github.com/HarishVS12/Mishmash-Code_Stoic)
-
-7. **Presentation Link:**  [MyTutor-Code_Stoic- Presentation Link](https://drive.google.com/file/d/1Zi3R_c1oiRsil2x0P4cwh6MPg0QMpc6x)
+6. **Presentation Link:**  [MyTutor- Presentation Link](https://drive.google.com/file/d/1Zi3R_c1oiRsil2x0P4cwh6MPg0QMpc6x)
                         (Please look into the presentation for more details)
 
 ## 🔥 Project Description
