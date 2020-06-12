@@ -14,8 +14,6 @@
   
 5. **Demo Link:**  [MyTutor- Demo App Link]( https://drive.google.com/open?id=1CvkLyIwM_ibl9M7ocQWngD9wuPWhDuMM)
 
-6. **Presentation Link:**  [MyTutor- Presentation Link](https://drive.google.com/file/d/1Zi3R_c1oiRsil2x0P4cwh6MPg0QMpc6x)
-                        (Please look into the presentation for more details)
 
 ## 🔥 Project Description
 
